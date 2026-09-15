@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>PIXEL8 — Home</title>
+	<link rel="icon" href="IMG/Logo/LOGO_small.png" type="image/png">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400&family=Press+Start+2P&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="css/base.css">
+	<link rel="stylesheet" href="css/home.css">
+</head>
+<body>
+	<header class="site-header">
+		<a class="site-logo" href="index.html">
+			<img src="IMG/Logo/LOGO_small.png" alt="PIXEL8 logo" width="40" height="40">
+			<span>PIXEL8</span>
+		</a>
+
+		<button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-menu" aria-label="Open menu">
+			<span class="nav-toggle-bars" aria-hidden="true"></span>
+		</button>
+		<nav class="site-nav" id="site-menu" aria-label="Primary">
+			<a href="index.html" aria-current="page">Home</a>
+			<a href="abstract.html">Abstract</a>
+			<a href="architect.html">Architect</a>
+			<a href="dark.html">Dark</a>
+			<a href="nature.html">Nature</a>
+			<a href="tech.html">Tech</a>
+			<a href="about.html">About</a>
+				<a href="attribution.html">Credits</a>
+		</nav>
+	</header>
+
+	<main>
+		<section class="hero" aria-labelledby="hero-title">
+			<a class="hero-logo" href="index.html">
+				<img src="IMG/Logo/LOGO_large.png" alt="PIXEL8">
+			</a>
+			<h1 id="hero-title" class="visually-hidden">PIXEL8 — Pixel Art Gallery</h1>
+
+			<div class="info-card">
+				<p class="tagline">Hello — FRONT PAGE</p>
+				<p class="definition"><strong>Pixel</strong></p>
+				<p class="breakdown">Pi &nbsp;×&nbsp; El</p>
+				<p class="definition">Picture &nbsp;×&nbsp; Element</p>
+				<ul>
+					<li>1 Pixel = 1 solid color</li>
+					<li>Basic unit of color on a display</li>
+					<li>A matrix of Pixels = Picture</li>
+				</ul>
+				<p class="art-label">Pixel Art</p>
+				<p class="definition">= Digital Art at Pixel Level</p>
+			</div>
+
+			<a class="scroll-down" href="#gallery" aria-label="Scroll to gallery">
+				<img src="IMG/Nav/Down.png" alt="" width="48" height="48">
+			</a>
+		</section>
+
+		<section class="gallery-section" id="gallery" aria-labelledby="gallery-title">
+			<div class="container">
+				<h2 class="section-title" id="gallery-title">Gallery</h2>
+				<p class="section-lead">Explore five pixel-art collections. Pick a category to open its page.</p>
+				<div class="gallery-grid">
+					<a class="gallery-card" href="nature.html">
+						<img src="IMG/Background/GalleryBack/Nature.jpg" alt="Nature gallery preview" width="640" height="360" loading="lazy">
+						<span class="card-label">Nature</span>
+					</a>
+					<a class="gallery-card" href="architect.html">
+						<img src="IMG/Background/GalleryBack/Architect.png" alt="Architect gallery preview" width="640" height="360" loading="lazy">
+						<span class="card-label">Architect</span>
+					</a>
+					<a class="gallery-card" href="dark.html">
+						<img src="IMG/Background/GalleryBack/Dark.png" alt="Dark gallery preview" width="640" height="360" loading="lazy">
+						<span class="card-label">Dark</span>
+					</a>
+					<a class="gallery-card" href="tech.html">
+						<img src="IMG/Background/GalleryBack/Tech.jpg" alt="Tech gallery preview" width="640" height="360" loading="lazy">
+						<span class="card-label">Tech</span>
+					</a>
+					<a class="gallery-card" href="abstract.html">
+						<img src="IMG/Background/GalleryBack/Abstract.png" alt="Abstract gallery preview" width="640" height="360" loading="lazy">
+						<span class="card-label">Abstract</span>
+					</a>
+				</div>
+			</div>
+		</section>
+	</main>
+
+	<footer class="site-footer">
+		<p class="footer-meta">
+			BCA Front End Project ~ December · PIXEL8
+			·
+			<a class="footer-attr" href="attribution.html">Media credits</a>
+		</p>
+		<a class="footer-about" href="about.html">
+			<img src="IMG/Nav/About.png" alt="About us" width="48" height="48">
+		</a>
+	</footer>
+	<script src="js/nav.js" defer></script>
+</body>
+</html>

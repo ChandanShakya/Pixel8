@@ -1,0 +1,190 @@
+.about-hero {
+	padding: 2.75rem 0 1.5rem;
+	background-image: linear-gradient(180deg, #0e67a4, #0f2244);
+	border-bottom: 3px solid #ee9a8b;
+}
+
+.about-hero .section-lead {
+	margin-bottom: 0;
+}
+
+.about-section-title {
+	margin: 1.5rem 0 0.5rem;
+	font-size: 0.95rem;
+	letter-spacing: 0.04em;
+}
+
+.team-grid {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+	gap: 1.25rem;
+	padding: 1.5rem 0 2.5rem;
+}
+
+.team-card {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	text-align: center;
+	gap: 0.65rem;
+	padding: 1.15rem 0.85rem;
+	background: rgba(14, 103, 164, 0.35);
+	border: 3px solid #f4f7fb;
+	box-shadow: 4px 4px 0 #000;
+}
+
+.team-card img {
+	width: 96px;
+	height: 96px;
+	object-fit: cover;
+	border: 3px solid #ee9a8b;
+	background: #0b1a33;
+	box-shadow: 3px 3px 0 #000;
+	image-rendering: auto;
+}
+
+.team-card .name {
+	margin: 0;
+	font-size: 0.7rem;
+	line-height: 1.4;
+}
+
+.team-card .role {
+	margin: 0;
+	font-size: 0.9rem;
+	opacity: 0.85;
+	line-height: 1.4;
+}
+
+.credits {
+	padding: 0 0 3.5rem;
+}
+
+.credits-table {
+	width: 100%;
+	border-collapse: collapse;
+	margin-top: 1rem;
+	font-size: 0.95rem;
+}
+
+.credits-table caption {
+	text-align: left;
+	font-size: 0.72rem;
+	margin-bottom: 0.75rem;
+	color: #ee9a8b;
+	letter-spacing: 0.04em;
+}
+
+.credits-table th,
+.credits-table td {
+	border: 2px solid rgba(255, 255, 255, 0.35);
+	padding: 0.75rem 1rem;
+	text-align: left;
+	vertical-align: top;
+}
+
+.credits-table th {
+	width: 42%;
+	background: #0e67a4;
+	font-family: "Press Start 2P", "Courier New", monospace;
+	font-size: 0.62rem;
+	line-height: 1.5;
+}
+
+.credits-table tr:nth-child(even) td {
+	background: rgba(255, 255, 255, 0.04);
+}
+
+.credits-table tr:nth-child(odd) td {
+	background: #0f2244;
+}
+
+@media (max-width: 768px) {
+	.about-hero {
+		padding: 1.75rem 0 1.15rem;
+	}
+
+	.about-section-title {
+		margin: 1.15rem 0 0.4rem;
+		font-size: 0.85rem;
+	}
+
+	.team-grid {
+		grid-template-columns: repeat(2, 1fr);
+		gap: 0.75rem;
+		padding: 1.15rem 0 1.75rem;
+	}
+
+	.team-card {
+		padding: 0.95rem 0.65rem;
+		gap: 0.5rem;
+		box-shadow: 3px 3px 0 #000;
+	}
+
+	.team-card img {
+		width: 80px;
+		height: 80px;
+	}
+
+	.team-card .name {
+		font-size: 0.62rem;
+	}
+
+	.team-card .role {
+		font-size: 0.82rem;
+	}
+
+	.credits {
+		padding-bottom: 2.5rem;
+	}
+
+	.credits-table {
+		font-size: 0.9rem;
+	}
+
+	.credits-table th,
+	.credits-table td {
+		padding: 0.65rem 0.75rem;
+	}
+}
+
+@media (max-width: 520px) {
+	.credits-table,
+	.credits-table tbody,
+	.credits-table tr,
+	.credits-table th,
+	.credits-table td {
+		display: block;
+		width: 100%;
+	}
+
+	.credits-table tr {
+		margin-bottom: 0.75rem;
+		border: 3px solid rgba(255, 255, 255, 0.35);
+		box-shadow: 4px 4px 0 #000;
+		overflow: hidden;
+	}
+
+	.credits-table th,
+	.credits-table td {
+		border: none;
+		border-bottom: 2px solid rgba(255, 255, 255, 0.12);
+		width: 100%;
+	}
+
+	.credits-table tr td:last-child,
+	.credits-table tr th:last-child {
+		border-bottom: none;
+	}
+}
+
+@media (max-width: 380px) {
+	.team-grid {
+		grid-template-columns: 1fr 1fr;
+		gap: 0.55rem;
+	}
+
+	.team-card .name {
+		font-size: 0.56rem;
+	}
+}

@@ -1,0 +1,1542 @@
+PIXEL8 - Media Attribution Sheet
+================================
+Generated: 2026-09-15
+
+IMPORTANT
+---------
+This project contains media downloaded from the internet during coursework.
+Original author, source URL, and license were NOT recorded at download time.
+Fields below marked "Unknown" MUST be filled in by the project team before
+any public redistribution (e.g. GitHub, Netlify, public website).
+
+Do NOT publish a file publicly unless you can prove one of:
+  - You created it yourself
+  - It is CC0 / public domain
+  - The license allows redistribution (and you follow its terms)
+  - You have written permission from the copyright holder
+
+USED IN SITE (after cleanup of unused assets)
+---------------------------------------------
+All files listed below are referenced by HTML/CSS/JS.
+Previously unused files were either integrated (404 art, tree decor,
+fire clips on Dark page) or deleted.
+
+Inventory: 137 media files
+
+--- [1] Background/GalleryBack/Abstract.png
+    Type:            image (.png)
+    Size:            325.3 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [2] Background/GalleryBack/Architect.png
+    Type:            image (.png)
+    Size:            70.3 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [3] Background/GalleryBack/Dark.png
+    Type:            image (.png)
+    Size:            62.9 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [4] Background/GalleryBack/Nature.jpg
+    Type:            image (.jpg)
+    Size:            390.6 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [5] Background/GalleryBack/Tech.jpg
+    Type:            image (.jpg)
+    Size:            289.1 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [6] Characters/1Kabir.gif
+    Type:            image (.gif)
+    Size:            50.3 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [7] Characters/2Chandan.PNG
+    Type:            image (.png)
+    Size:            11.4 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [8] Characters/3Saswat.gif
+    Type:            image (.gif)
+    Size:            114.3 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [9] Characters/4Bijina.png
+    Type:            image (.png)
+    Size:            2.4 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [10] Characters/5Kabita.gif
+    Type:            image (.gif)
+    Size:            61.7 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [11] Decorations/Fire.mp4
+    Type:            video (.mp4)
+    Size:            15.7 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [12] Decorations/Fire1.mp4
+    Type:            video (.mp4)
+    Size:            21 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [13] Decorations/Gamefire.mp4
+    Type:            video (.mp4)
+    Size:            21.8 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [14] Decorations/page-dead.png
+    Type:            image (.png)
+    Size:            8.4 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [15] Decorations/tree-decor.png
+    Type:            image (.png)
+    Size:            22.3 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [16] Logo/LOGO_large.png
+    Type:            image (.png)
+    Size:            14.6 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [17] Logo/LOGO_small.png
+    Type:            image (.png)
+    Size:            15.3 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [18] Nav/About.png
+    Type:            image (.png)
+    Size:            8.8 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [19] Nav/Down.png
+    Type:            image (.png)
+    Size:            1.3 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [20] Pics/Abstract/Pics/1.png
+    Type:            image (.png)
+    Size:            37.2 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [21] Pics/Abstract/Pics/10.jpg
+    Type:            image (.jpg)
+    Size:            259.6 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [22] Pics/Abstract/Pics/11.jpg
+    Type:            image (.jpg)
+    Size:            3.07 MB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [23] Pics/Abstract/Pics/12.jpg
+    Type:            image (.jpg)
+    Size:            115.7 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [24] Pics/Abstract/Pics/13.jpg
+    Type:            image (.jpg)
+    Size:            140.7 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [25] Pics/Abstract/Pics/14.PNG
+    Type:            image (.png)
+    Size:            503.8 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [26] Pics/Abstract/Pics/15.jpg
+    Type:            image (.jpg)
+    Size:            1.46 MB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [27] Pics/Abstract/Pics/2.png
+    Type:            image (.png)
+    Size:            116.2 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [28] Pics/Abstract/Pics/3.png
+    Type:            image (.png)
+    Size:            95.3 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [29] Pics/Abstract/Pics/4.PNG
+    Type:            image (.png)
+    Size:            385 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [30] Pics/Abstract/Pics/5.jpg
+    Type:            image (.jpg)
+    Size:            225.4 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [31] Pics/Abstract/Pics/6.PNG
+    Type:            image (.png)
+    Size:            426.7 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [32] Pics/Abstract/Pics/7.jpg
+    Type:            image (.jpg)
+    Size:            4.41 MB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [33] Pics/Abstract/Pics/8.jpg
+    Type:            image (.jpg)
+    Size:            1.01 MB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [34] Pics/Abstract/Pics/9.jpg
+    Type:            image (.jpg)
+    Size:            1.81 MB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [35] Pics/Abstract/Videos/1.gif
+    Type:            image (.gif)
+    Size:            1.09 MB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [36] Pics/Abstract/Videos/2.gif
+    Type:            image (.gif)
+    Size:            1.73 MB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [37] Pics/Abstract/Videos/3.gif
+    Type:            image (.gif)
+    Size:            2.33 MB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [38] Pics/Abstract/Videos/4.gif
+    Type:            image (.gif)
+    Size:            7.45 MB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [39] Pics/Abstract/Videos/5.gif
+    Type:            image (.gif)
+    Size:            1.92 MB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [40] Pics/Architect/Pics/1.png
+    Type:            image (.png)
+    Size:            33.6 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [41] Pics/Architect/Pics/10.png
+    Type:            image (.png)
+    Size:            18.1 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [42] Pics/Architect/Pics/11.png
+    Type:            image (.png)
+    Size:            13.2 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [43] Pics/Architect/Pics/12.png
+    Type:            image (.png)
+    Size:            22.5 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [44] Pics/Architect/Pics/13.png
+    Type:            image (.png)
+    Size:            174.6 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [45] Pics/Architect/Pics/14.jpg
+    Type:            image (.jpg)
+    Size:            110.5 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [46] Pics/Architect/Pics/15.jpg
+    Type:            image (.jpg)
+    Size:            1.34 MB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [47] Pics/Architect/Pics/2.png
+    Type:            image (.png)
+    Size:            22.9 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [48] Pics/Architect/Pics/3.png
+    Type:            image (.png)
+    Size:            42.6 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [49] Pics/Architect/Pics/4.png
+    Type:            image (.png)
+    Size:            82.4 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [50] Pics/Architect/Pics/5.png
+    Type:            image (.png)
+    Size:            390.4 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [51] Pics/Architect/Pics/6.png
+    Type:            image (.png)
+    Size:            46.3 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [52] Pics/Architect/Pics/7.png
+    Type:            image (.png)
+    Size:            57.1 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [53] Pics/Architect/Pics/8.jpg
+    Type:            image (.jpg)
+    Size:            129.1 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [54] Pics/Architect/Pics/9.png
+    Type:            image (.png)
+    Size:            20.4 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [55] Pics/Architect/Videos/1.mp4
+    Type:            video (.mp4)
+    Size:            29.9 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [56] Pics/Architect/Videos/10.gif
+    Type:            image (.gif)
+    Size:            1.78 MB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [57] Pics/Architect/Videos/2.mp4
+    Type:            video (.mp4)
+    Size:            176.5 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [58] Pics/Architect/Videos/3.mp4
+    Type:            video (.mp4)
+    Size:            701 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [59] Pics/Architect/Videos/4.gif
+    Type:            image (.gif)
+    Size:            132.7 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [60] Pics/Architect/Videos/5.mp4
+    Type:            video (.mp4)
+    Size:            348.4 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [61] Pics/Architect/Videos/6.gif
+    Type:            image (.gif)
+    Size:            7.4 MB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [62] Pics/Architect/Videos/7.mp4
+    Type:            video (.mp4)
+    Size:            3.39 MB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [63] Pics/Architect/Videos/8.mp4
+    Type:            video (.mp4)
+    Size:            587.8 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [64] Pics/Architect/Videos/9.mp4
+    Type:            video (.mp4)
+    Size:            2.46 MB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [65] Pics/Dark/Pics/1.jpg
+    Type:            image (.jpg)
+    Size:            2.15 MB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [66] Pics/Dark/Pics/10.png
+    Type:            image (.png)
+    Size:            32.8 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [67] Pics/Dark/Pics/11.jpg
+    Type:            image (.jpg)
+    Size:            27.4 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [68] Pics/Dark/Pics/12.png
+    Type:            image (.png)
+    Size:            46.9 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [69] Pics/Dark/Pics/13.jpg
+    Type:            image (.jpg)
+    Size:            103.3 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [70] Pics/Dark/Pics/14.jpg
+    Type:            image (.jpg)
+    Size:            516.9 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [71] Pics/Dark/Pics/15.jpg
+    Type:            image (.jpg)
+    Size:            828.6 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [72] Pics/Dark/Pics/2.png
+    Type:            image (.png)
+    Size:            32.3 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [73] Pics/Dark/Pics/3.png
+    Type:            image (.png)
+    Size:            19.7 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [74] Pics/Dark/Pics/4.png
+    Type:            image (.png)
+    Size:            34.2 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [75] Pics/Dark/Pics/5.png
+    Type:            image (.png)
+    Size:            12.3 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [76] Pics/Dark/Pics/6.jpg
+    Type:            image (.jpg)
+    Size:            206.9 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [77] Pics/Dark/Pics/7.png
+    Type:            image (.png)
+    Size:            10.6 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [78] Pics/Dark/Pics/8.png
+    Type:            image (.png)
+    Size:            61.9 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [79] Pics/Dark/Pics/9.jpg
+    Type:            image (.jpg)
+    Size:            16.2 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [80] Pics/Dark/Videos/1.mp4
+    Type:            video (.mp4)
+    Size:            202.2 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [81] Pics/Dark/Videos/2.mp4
+    Type:            video (.mp4)
+    Size:            1.32 MB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [82] Pics/Dark/Videos/3.mp4
+    Type:            video (.mp4)
+    Size:            631.4 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [83] Pics/Dark/Videos/4.mp4
+    Type:            video (.mp4)
+    Size:            40.2 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [84] Pics/Nature/Pics/1.jpg
+    Type:            image (.jpg)
+    Size:            1.26 MB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [85] Pics/Nature/Pics/10.png
+    Type:            image (.png)
+    Size:            17.5 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [86] Pics/Nature/Pics/11.jpg
+    Type:            image (.jpg)
+    Size:            1.33 MB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [87] Pics/Nature/Pics/12.png
+    Type:            image (.png)
+    Size:            44.8 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [88] Pics/Nature/Pics/13.png
+    Type:            image (.png)
+    Size:            54 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [89] Pics/Nature/Pics/14.png
+    Type:            image (.png)
+    Size:            51.1 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [90] Pics/Nature/Pics/15.png
+    Type:            image (.png)
+    Size:            45.7 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [91] Pics/Nature/Pics/2.jpg
+    Type:            image (.jpg)
+    Size:            1.27 MB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [92] Pics/Nature/Pics/3.jpg
+    Type:            image (.jpg)
+    Size:            98.5 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [93] Pics/Nature/Pics/4.jpg
+    Type:            image (.jpg)
+    Size:            1.19 MB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [94] Pics/Nature/Pics/5.jpg
+    Type:            image (.jpg)
+    Size:            45 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [95] Pics/Nature/Pics/6.png
+    Type:            image (.png)
+    Size:            19.4 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [96] Pics/Nature/Pics/7.png
+    Type:            image (.png)
+    Size:            58.7 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [97] Pics/Nature/Pics/8.png
+    Type:            image (.png)
+    Size:            23.4 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [98] Pics/Nature/Pics/9.png
+    Type:            image (.png)
+    Size:            20.5 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [99] Pics/Nature/Videos/1.gif
+    Type:            image (.gif)
+    Size:            497.5 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [100] Pics/Nature/Videos/2.gif
+    Type:            image (.gif)
+    Size:            982.1 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [101] Pics/Nature/Videos/3.mp4
+    Type:            video (.mp4)
+    Size:            543.4 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [102] Pics/Nature/Videos/4.mp4
+    Type:            video (.mp4)
+    Size:            159.3 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [103] Pics/Nature/Videos/5.mp4
+    Type:            video (.mp4)
+    Size:            128.4 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [104] Pics/Nature/Videos/6.mp4
+    Type:            video (.mp4)
+    Size:            274.5 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [105] Pics/Nature/Videos/7.mp4
+    Type:            video (.mp4)
+    Size:            239.9 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [106] Pics/Nature/Videos/8.mp4
+    Type:            video (.mp4)
+    Size:            1.11 MB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [107] Pics/Nature/Videos/9.mp4
+    Type:            video (.mp4)
+    Size:            486.7 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [108] Pics/Tech/Pics/1.png
+    Type:            image (.png)
+    Size:            43.7 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [109] Pics/Tech/Pics/10.jpg
+    Type:            image (.jpg)
+    Size:            95.5 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [110] Pics/Tech/Pics/11.jpg
+    Type:            image (.jpg)
+    Size:            224 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [111] Pics/Tech/Pics/12.png
+    Type:            image (.png)
+    Size:            7 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [112] Pics/Tech/Pics/13.png
+    Type:            image (.png)
+    Size:            36.9 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [113] Pics/Tech/Pics/14.png
+    Type:            image (.png)
+    Size:            16.3 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [114] Pics/Tech/Pics/15.png
+    Type:            image (.png)
+    Size:            38.2 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [115] Pics/Tech/Pics/2.jpg
+    Type:            image (.jpg)
+    Size:            398.6 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [116] Pics/Tech/Pics/3.png
+    Type:            image (.png)
+    Size:            86.7 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [117] Pics/Tech/Pics/4.png
+    Type:            image (.png)
+    Size:            32.7 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [118] Pics/Tech/Pics/5.jpg
+    Type:            image (.jpg)
+    Size:            68.2 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [119] Pics/Tech/Pics/6.jpg
+    Type:            image (.jpg)
+    Size:            106.8 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [120] Pics/Tech/Pics/7.jpg
+    Type:            image (.jpg)
+    Size:            114.4 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [121] Pics/Tech/Pics/8.jpg
+    Type:            image (.jpg)
+    Size:            28.8 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [122] Pics/Tech/Pics/9.jpg
+    Type:            image (.jpg)
+    Size:            141.3 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [123] Pics/Tech/Videos/1.mp4
+    Type:            video (.mp4)
+    Size:            90.5 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [124] Pics/Tech/Videos/10.gif
+    Type:            image (.gif)
+    Size:            343.8 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [125] Pics/Tech/Videos/11.gif
+    Type:            image (.gif)
+    Size:            354.1 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [126] Pics/Tech/Videos/12.gif
+    Type:            image (.gif)
+    Size:            1.89 MB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [127] Pics/Tech/Videos/13.gif
+    Type:            image (.gif)
+    Size:            715.7 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [128] Pics/Tech/Videos/14.gif
+    Type:            image (.gif)
+    Size:            129.9 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [129] Pics/Tech/Videos/15.gif
+    Type:            image (.gif)
+    Size:            2.53 MB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [130] Pics/Tech/Videos/2.mp4
+    Type:            video (.mp4)
+    Size:            27.2 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [131] Pics/Tech/Videos/3.mp4
+    Type:            video (.mp4)
+    Size:            125.2 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [132] Pics/Tech/Videos/4.mp4
+    Type:            video (.mp4)
+    Size:            772.4 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [133] Pics/Tech/Videos/5.gif
+    Type:            image (.gif)
+    Size:            43.4 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [134] Pics/Tech/Videos/6.gif
+    Type:            image (.gif)
+    Size:            45.9 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [135] Pics/Tech/Videos/7.mp4
+    Type:            video (.mp4)
+    Size:            1.88 MB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [136] Pics/Tech/Videos/8.gif
+    Type:            image (.gif)
+    Size:            563.1 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+--- [137] Pics/Tech/Videos/9.mp4
+    Type:            video (.mp4)
+    Size:            351.6 KB
+    Original author: Unknown
+    Original link:   Unknown
+    License:         Unknown
+    Downloaded by:   PIXEL8 team (BCA front-end project)
+    Downloaded on:   Unknown (not recorded)
+    Notes:           Downloaded from the internet; not verified for reuse.
+    STATUS:          Unknown - do not publish publicly until cleared
+
+================================
+END OF SHEET
+
+How to fill this in
+-------------------
+1. If you still have the download page / chat / folder note, copy the artist name and URL here.
+2. Open the source page and look for a license (CC0, CC-BY, etc.) or terms of use.
+3. If there is no license allowing redistribution, do not upload that file publicly.
+4. Change STATUS to OK only after the license/permission is verified.
+5. Keep this file with the project and update it whenever media changes.
