@@ -83,6 +83,22 @@
 		return getGalleryLabel(item, media);
 	}
 
+	function groupLabel(item) {
+		if (!item || !item.closest) return "";
+		var grid = item.closest(".media-grid");
+		if (!grid) return "";
+		var head = grid.previousElementSibling;
+		while (head && !/^H[1-6]$/.test(head.tagName)) head = head.previousElementSibling;
+		return head ? head.textContent.trim() : "";
+	}
+
+	function groupFor(item) {
+		if (!item || !item.closest) return galleryItems;
+		var grid = item.closest(".media-grid");
+		if (!grid) return galleryItems;
+		return Array.prototype.slice.call(grid.querySelectorAll("figure"));
+	}
+
 	function clearStage() {
 		stage.innerHTML = "";
 	}
@@ -120,8 +136,18 @@
 			stage.appendChild(img);
 		}
 
-		caption.textContent = label;
-		counter.textContent = currentIndex + 1 + " / " + list.length;
+		caption.textContent = /^\d+$/.test(label) ? "" : label;
+		var group = groupLabel(item).toLowerCase();
+		var kind = /video|motion/.test(group) ? "Motion" : "Photo";
+		counter.innerHTML = "";
+		var kindEl = document.createElement("span");
+		kindEl.className = "lb-kind";
+		kindEl.textContent = kind;
+		var countEl = document.createElement("span");
+		countEl.className = "lb-count";
+		countEl.textContent = (currentIndex + 1) + " / " + list.length;
+		counter.appendChild(kindEl);
+		counter.appendChild(countEl);
 
 		var multi = list.length > 1;
 		prevBtn.hidden = !multi;
@@ -199,7 +225,7 @@
 
 		figure.addEventListener("click", function (event) {
 			if (isInteractiveCreditTarget(event.target)) return;
-			openFromItem(figure, galleryItems);
+			openFromItem(figure, groupFor(figure));
 		});
 
 		figure.addEventListener("keydown", function (event) {
@@ -208,7 +234,7 @@
 			}
 			if (event.key === "Enter" || event.key === " ") {
 				event.preventDefault();
-				openFromItem(figure, galleryItems);
+				openFromItem(figure, groupFor(figure));
 			}
 		});
 	});

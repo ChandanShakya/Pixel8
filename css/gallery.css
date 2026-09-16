@@ -108,12 +108,18 @@
 	flex-direction: column;
 	align-items: center;
 	gap: 0.75rem;
-	padding: 0 2.75rem;
+	padding: 0 0 5rem;
+}
+
+.lightbox-stage {
+	display: flex;
+	justify-content: center;
+	width: 100%;
 }
 
 .lightbox-media {
 	max-width: 100%;
-	max-height: calc(100vh - 6rem);
+	max-height: calc(100vh - 14rem);
 	object-fit: contain;
 	background: #0b1a33;
 	border: 3px solid #f4f7fb;
@@ -128,17 +134,42 @@
 	color: #f4f7fb;
 }
 
+.lightbox-caption:empty {
+	display: none;
+}
+
 .lightbox-counter {
+	position: fixed;
+	bottom: 1rem;
+	left: 1rem;
+	right: auto;
+	transform: none;
+	display: flex;
+	align-items: center;
+	gap: 0.75rem;
+	min-height: 2.5rem;
+	max-width: calc(100vw - 12rem);
 	margin: 0;
-	font-size: 0.72rem;
+	padding: 0.3rem 0.6rem;
+	font-size: 0.6rem;
 	font-family: "Press Start 2P", "Courier New", monospace;
-	opacity: 0.85;
+	white-space: nowrap;
+	overflow: hidden;
 	color: #ffd2c8;
+	background: rgba(15, 34, 68, 0.9);
+	border: 2px solid rgba(244, 247, 251, 0.6);
+	opacity: 1;
+}
+
+.lightbox-counter .lb-count {
+	overflow: hidden;
+	text-overflow: ellipsis;
 }
 
 .lightbox-close,
 .lightbox-nav {
-	position: absolute;
+	position: fixed;
+	bottom: 1rem;
 	z-index: 2;
 	border: 3px solid #f4f7fb;
 	background: #0f2244;
@@ -152,15 +183,16 @@
 }
 
 .lightbox-close {
-	top: -0.35rem;
-	right: -0.35rem;
-	width: 2.35rem;
-	height: 2.35rem;
+	top: auto;
+	right: 7rem;
+	left: auto;
+	transform: none;
+	width: 2.5rem;
+	height: 2.5rem;
 	font-size: 1.25rem;
 }
 
-.lightbox-close:hover,
-.lightbox-nav:hover {
+.lightbox-close:hover {
 	background: #ee9a8b;
 	color: #0f2244;
 	transform: translate(1px, 1px);
@@ -168,23 +200,28 @@
 }
 
 .lightbox-nav {
-	top: 50%;
-	transform: translateY(-50%);
+	top: auto;
+	bottom: 1rem;
+	transform: none;
 	width: 2.5rem;
 	height: 2.5rem;
 	font-size: 1rem;
 }
 
 .lightbox-nav:hover {
-	transform: translateY(calc(-50% + 1px));
+	background: #ee9a8b;
+	color: #0f2244;
+	transform: translate(1px, 1px);
+	box-shadow: 2px 2px 0 #000;
 }
 
 .lightbox-prev {
-	left: 0;
+	left: auto;
+	right: 4rem;
 }
 
 .lightbox-next {
-	right: 0;
+	right: 1rem;
 }
 
 .lightbox-nav[hidden] {
@@ -343,47 +380,20 @@ body.lightbox-open {
 	}
 
 	.lightbox-dialog {
-		padding: 0.25rem 0;
+		padding: 0 0 5rem;
 		gap: 0.55rem;
 		max-height: calc(100vh - 1.5rem);
 	}
 
 	.lightbox-media {
-		max-height: calc(100vh - 9rem);
+		max-height: calc(100vh - 14rem);
 		width: 100%;
 		box-shadow: 4px 4px 0 #000;
 	}
 
-	.lightbox-close {
-		top: -0.15rem;
-		right: 0;
-		width: 2.4rem;
-		height: 2.4rem;
-	}
-
-	.lightbox-nav {
-		top: auto;
-		bottom: -0.15rem;
-		transform: none;
-		width: 2.75rem;
-		height: 2.75rem;
-	}
-
-	.lightbox-nav:hover {
-		transform: translate(1px, 1px);
-	}
-
-	.lightbox-prev {
-		left: 0;
-	}
-
-	.lightbox-next {
-		right: 0;
-	}
-
 	.lightbox-caption {
 		font-size: 0.82rem;
-		padding: 0 3rem;
+		padding: 0 0.5rem;
 	}
 
 	.lightbox-counter {
