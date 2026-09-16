@@ -41,7 +41,10 @@
 	var nextBtn = overlay.querySelector(".lightbox-next");
 
 	function isVideo(media) {
-		return media && media.tagName === "VIDEO";
+		if (!media) return false;
+		if (media.tagName === "VIDEO") return true;
+		var src = media.getAttribute && media.getAttribute("src");
+		return !!(src && /\.mp4(\?|$)/i.test(src));
 	}
 
 	function getGalleryLabel(figure, media) {
@@ -118,14 +121,17 @@
 		var label = getItemLabel(item, media);
 		clearStage();
 
-		if (isVideo(media)) {
+		if (isVideo(media) || /\.mp4(\?|$)/i.test(src)) {
 			var video = document.createElement("video");
 			video.className = "lightbox-media";
 			video.src = src;
 			video.controls = true;
 			video.autoplay = true;
+			video.loop = true;
 			video.playsInline = true;
+			video.muted = false;
 			video.setAttribute("playsinline", "");
+			video.setAttribute("loop", "");
 			video.setAttribute("controlsList", "nodownload");
 			stage.appendChild(video);
 		} else {

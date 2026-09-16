@@ -50,6 +50,8 @@
 	box-shadow: 4px 4px 0 #000;
 	cursor: zoom-in;
 	position: relative;
+	display: flex;
+	flex-direction: column;
 	transition: transform 0.1s steps(1), box-shadow 0.1s steps(1), border-color 0.1s steps(1);
 }
 
@@ -64,16 +66,22 @@
 	outline-offset: 2px;
 }
 
+/* Uniform tiles: ignore HTML width/height attrs; every thumb is a 4:3 cover box */
 .media-grid img,
 .media-grid video {
 	width: 100%;
+	height: auto;
 	aspect-ratio: 4 / 3;
 	object-fit: cover;
+	object-position: center;
 	display: block;
+	flex: 0 0 auto;
 	pointer-events: none;
+	background: #0b1a33;
 }
 
 .media-grid figcaption {
+	flex: 0 0 auto;
 	padding: 0.5rem 0.65rem;
 	font-size: 0.8rem;
 	opacity: 0.9;
